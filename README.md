@@ -7,7 +7,7 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) focada no mercado
 - **Python:** Manipulação de dados e lógica de categorização.
 - **Pandas:** Limpeza, agrupamento e cruzamento de tabelas múltiplas (`pd.merge`).
 - **Matplotlib & Seaborn:** Criação de visualizações e storytelling de dados.
-- **Google Colab / Jupyter Notebook**
+- **Google Colab**
 
 ## 📊 Principais Descobertas (Insights)
 
